@@ -6,6 +6,7 @@ body {
     background-size: cover;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 
 /*
@@ -94,6 +95,9 @@ body {
 .cboxIE6 #cboxMiddleRight {
     _behavior: expression(this.src = this.src ? this.src : this.currentStyle.backgroundImage.split('"')[1], this.style.background = "none", this.style.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src=" + this.src + ", sizingMethod='scale')");
 }
+=======
+}
+>>>>>>> aecbe571ecbbd9110125441d1c5f05085fd78ac3
 =======
 }
 >>>>>>> aecbe571ecbbd9110125441d1c5f05085fd78ac3
